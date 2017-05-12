@@ -2,15 +2,17 @@ kit
 ---
 
 This is a handy container for when things get really ugly... it's just a
-basic Ubuntu Xenial image all manner of troubleshooting and build tools
+basic Ubuntu Xenial image with all manner of troubleshooting and build tools
 installed and ready to go.
 
-*Database Clients*
+**Database Clients**
+
 * LDAP (ldapsearch and friends)
 * MongoDB (mongo shell 3.4)
 * MySQL (mysql client 5.7)
 
-*Networking Tools*
+**Networking Tools**
+
 * dig
 * netcat
 * nslookup
@@ -20,7 +22,8 @@ installed and ready to go.
 * telnet
 * traceroute
 
-*Development Tools*
+**Development Tools**
+
 * build-essential (gcc, make, etc.)
 * git
 * golang
@@ -29,12 +32,14 @@ installed and ready to go.
 * nodejs
 * python (2 and 3)
 
-*Editors*
+**Editors**
+
 * emacs
 * nano
 * vim
 
-*Other Stuff*
+**Other Stuff**
+
 * man pages
 * openssl
 * screen
