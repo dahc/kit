@@ -1,9 +1,12 @@
 kit
 ---
 
-This is a handy container for when things get really ugly... it's just a
-basic Ubuntu Xenial image with all manner of troubleshooting and build tools
-installed and ready to go.
+Kit is just a basic Ubuntu Xenial image with all manner of troubleshooting and
+build tools installed and ready to go.
+
+This is a handy container for when things get really ugly, particularly when
+troubleshooting Kubernetes networking issues from the perspective of pods
+running inside the cluster.
 
 **Database Clients**
 
