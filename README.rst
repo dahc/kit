@@ -13,6 +13,7 @@ installed and ready to go.
 
 **Networking Tools**
 
+* curl
 * dig
 * netcat
 * nslookup
@@ -21,6 +22,7 @@ installed and ready to go.
 * tcpdump
 * telnet
 * traceroute
+* wget
 
 **Development Tools**
 
